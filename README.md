@@ -5,7 +5,9 @@ Some tweaks can be dangerous, but some can reallly help your system.
 <img width="640" height="360" alt="New Project" src="https://github.com/user-attachments/assets/fafbf4fb-ad44-46a9-a580-368e19e4ced7"/>
 </p>
 <img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/meteor-client" alt="GitHub code size in bytes"/>
-## **The following tweaks added are:**
+
+<img src="https://img.shields.io/github/release/sc0t6/bolt" alt="Release"/></a>
+<h2>The following tweaks added are:</h2>
 - A restore point before doing it (You have to do it yourself)
 - CPU
 - Drivers
@@ -18,5 +20,5 @@ Some tweaks can be dangerous, but some can reallly help your system.
 - Telemetry
 - Credits and Disabling Remote Desktop/File Sharing.
 
-## **Current Release: StableV2 (Bolt Optimizer V2)**
+<h2Current Release: StableV2 (Bolt Optimizer V2)</h2>
 To download it, press on the latest release at the right of the screen/website.
