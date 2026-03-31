@@ -2,7 +2,7 @@
 This is a optimizer for windows called Bolt, which mainly debloats your system and fixes a bit of things for gaming and better performance overall.
 Some tweaks can be dangerous, but some can reallly help your system.
 <p align="center">
-<img width="1280" height="720" alt="New Project" src="https://github.com/user-attachments/assets/fafbf4fb-ad44-46a9-a580-368e19e4ced7" width="15%"/>
+<img width="640" height="360" alt="New Project" src="https://github.com/user-attachments/assets/fafbf4fb-ad44-46a9-a580-368e19e4ced7"/>
 </p>
 <img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/meteor-client" alt="GitHub code size in bytes"/>
 ## **The following tweaks added are:**
