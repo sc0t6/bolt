@@ -20,5 +20,5 @@ Some tweaks can be dangerous, but some can reallly help your system.
 - Telemetry
 - Credits and Disabling Remote Desktop/File Sharing.
 
-<h2Current Release: StableV2 (Bolt Optimizer V2)</h2>
+<h2>Current Release: StableV2 (Bolt Optimizer V2)</h2>
 To download it, press on the latest release at the right of the screen/website.
