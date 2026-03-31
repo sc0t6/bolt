@@ -10,7 +10,7 @@ Some tweaks can be dangerous, but some can reallly help your system.
 </p>
 <h2>The following tweaks added are:</h2>
 > A restore point before doing it (You have to do it yourself)  
-> CPU  
+> **CPU**
 > Drivers  
 > GPU  
 > Improvements  
