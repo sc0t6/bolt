@@ -1,0 +1,2 @@
+Installing intel drivers improves alot of stability and compatiability with other apps and games.
+https://www.intel.com/content/www/us/en/support/detect.html

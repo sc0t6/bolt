@@ -1,0 +1,4 @@
+Deleting onedrive may not be recommended if you have the following:
+
+- Saved files on OneDrive or
+- In the future thinking of saving files inside of OneDrive

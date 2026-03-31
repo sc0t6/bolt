@@ -1,0 +1,5 @@
+Install NVIDIA Drivers with:
+https://www.nvidia.com/en-eu/software/nvidia-app/
+
+Install AMD Drivers with: 
+https://www.amd.com/en/support/download/drivers.html

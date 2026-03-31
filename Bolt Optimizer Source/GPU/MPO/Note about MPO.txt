@@ -1,0 +1,1 @@
+MPO is a good tweak, but it will be better if you disable it when theres flickering or stutters on your GPU.
