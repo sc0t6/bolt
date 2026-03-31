@@ -1,13 +1,22 @@
-# Bolt Optimizer // Bat Version
+<h1 align="center">Bolt Optimizer</h1>
 This is a optimizer for windows called Bolt, which mainly debloats your system and fixes a bit of things for gaming and better performance overall.
 Some tweaks can be dangerous, but some can reallly help your system.
+<p align="center">
+<img width="1280" height="720" alt="New Project" src="https://github.com/user-attachments/assets/fafbf4fb-ad44-46a9-a580-368e19e4ced7" width="15%"/>
+</p>
+<img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/meteor-client" alt="GitHub code size in bytes"/>
+## **The following tweaks added are:**
+- A restore point before doing it (You have to do it yourself)
+- CPU
+- Drivers
+- GPU
+- Improvements
+- Network
+- RAM
+- Services and Resources
+- Storage
+- Telemetry
+- Credits and Disabling Remote Desktop/File Sharing.
 
-Changelog:
-
-02/02/2026 18:00
-        The release
-- Added the normal tweaks that are stable and safe
-- Removed experimental features for later versions
-- Changed how our service works (we now use folders and other things so you have your free will to change anything and still have whatever you want!)
-- Fixed some bugs with tweaks not working or applying.
-- Added gpu cache reset
+## **Current Release: StableV2 (Bolt Optimizer V2)**
+To download it, press on the latest release at the right of the screen/website.
