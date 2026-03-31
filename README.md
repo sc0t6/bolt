@@ -12,19 +12,21 @@ Some tweaks can be dangerous, but some can really help your system.
 <img src="https://img.shields.io/github/release/sc0t6/bolt" alt="Release"/>
 </p>
 
-## The following tweaks added are:
+<h2>The following tweaks added are:</h2>
 
-- **A restore point before doing it (You have to do it yourself)**
-- **CPU**
-- **Drivers**
-- **GPU**
-- **Improvements**
-- **Network**
-- **RAM**
-- **Services and Resources**
-- **Storage**
-- **Telemetry**
-- **Credits and Disabling Remote Desktop/File Sharing**
+<blockquote>
+<p><strong>A restore point before doing it (You have to do it yourself)</strong></p>
+<p><strong>CPU</strong></p>
+<p>Drivers</p>
+<p>GPU</p>
+<p>Improvements</p>
+<p>Network</p>
+<p>RAM</p>
+<p>Services and Resources</p>
+<p>Storage</p>
+<p>Telemetry</p>
+<p>Credits and Disabling Remote Desktop/File Sharing</p>
+</blockquote>
 
 ## Current Release: StableV2 (Bolt Optimizer V2)
 
